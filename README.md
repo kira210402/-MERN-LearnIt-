@@ -5,8 +5,6 @@
 
 ### Link Demo 📌
 
-[https://learnit-ng-ha.netlify.app/](https://learnit-ng-ha.netlify.app/)
-
 ### Features :computer:
 
 A fullstack **MERN** (`mongoDB`, `expressjs`, `reactjs`, `nodejs`) app using `jsonwebtoken`-based authentication and basic CRUD operation with `RESTful API`

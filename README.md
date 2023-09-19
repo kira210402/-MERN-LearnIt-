@@ -1,7 +1,7 @@
 # A `MERN` app called LearnIt 🎯
 
-![learn-it](./github-images/learnit.png)
-![learn-it-2](./github-images/learnit2.png)
+![learn-it](./learnit.png)
+![learn-it-2](./learnit2.png)
 
 ### Link Demo 📌
 
